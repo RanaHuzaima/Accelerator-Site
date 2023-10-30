@@ -135,6 +135,14 @@ i p{
         line-height: 87px;
         font-size: 40px
     }
+    .text{
+        padding: 0;
+        justify-content: center;
+        align-items: center;
+    }
+    .txt-img{
+        height: 315px;
+    }
 }
 @media screen and (max-width: 760px){
     header{
