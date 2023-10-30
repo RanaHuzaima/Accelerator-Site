@@ -126,15 +126,8 @@ i p{
     margin-left: 5px;
 }
 /* Section-Text-End  */
+@media screen and (max-width: 1330px){
 
-@media screen and (max-width: 1135px){
-    header{
-        padding: 0 100px;
-    }
-    .main h1{
-        line-height: 87px;
-        font-size: 40px
-    }
     .text{
         padding: 0;
         justify-content: center;
@@ -142,6 +135,15 @@ i p{
     }
     .txt-img{
         height: 315px;
+    }
+}
+@media screen and (max-width: 1135px){
+    header{
+        padding: 0 100px;
+    }
+    .main h1{
+        line-height: 87px;
+        font-size: 40px
     }
 }
 @media screen and (max-width: 760px){
