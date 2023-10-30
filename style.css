@@ -48,7 +48,7 @@ ul{
 }
 /* Header-End */
 
-/* Main-Start */
+/* Section-Main-Start */
 .main{
     background-image: url("https://www.drivewebstudio.com/hubfs/Generator/backgrounds/bg-fullscreen-man-chair.jpg");
     background-position: center;
@@ -89,4 +89,14 @@ h1{
     color: black;
     border: none;
 }
-/* Main-End */
+/* Section-Main-End */
+/* Section-Logo-Start */
+.logos{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+    height: 150px;
+}
+/* Section-Logo-End */
