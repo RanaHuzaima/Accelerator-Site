@@ -1,5 +1,8 @@
 # Accelerator-Site
-Build and manage your Hubspot website withoiut code.
+Build and manage your Hubspot website without code.
 
-# Images
+## Live Link
+https://classy-bonbon-1ed08b.netlify.app/
+
+# Live
 ![image](https://github.com/RanaHuzaima/Accelerator-Site/assets/120297532/11de57d0-644a-4cca-8afb-9b53b432436f)
